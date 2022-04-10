@@ -1,2 +1,2 @@
-# certificates_dir
+# Certificates
 Place to hold my certificates from Oracle, Coursera, FreeCodeCamp .......
