@@ -2,7 +2,7 @@
 
 <details>
  <summary>Web</summary>
- <p align="center"><a href="#none"><img width="10%" src="./assets/10_days_of_javascript_5_star.png" /></a></p>
+ <p align="center"><a href="#none"><img width="8%" src="./assets/10_days_of_javascript_5_star.png" /></a></p>
   <p align="center"><a href="#none"><img width="90%" src="./assets/FCC_Responsive Web.png" /></a></p>
   <p align="center"><a href="#none"><img width="90%" src="./assets/HackerRank_CSS.png" /></a></p>
   <p align="center"><a href="#none"><img width="90%" src="./assets/HackerRank_js_basics.png" /></a></p>
