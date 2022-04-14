@@ -1,4 +1,16 @@
-# Certificates
+# Certifications
+
+<details>
+ <summary>Web</summary>
+  
+</details>
+
+
+<details>
+ <summary>Cloud</summary>
+</details>
+
+
 
 
 <!--
