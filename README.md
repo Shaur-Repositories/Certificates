@@ -2,13 +2,32 @@
 
 <details>
  <summary>Web</summary>
-  
+ <p align="center"><a href="#none"><img width="10%" src="./assets/10_days_of_javascript_5_star.png" /></a></p>
+  <p align="center"><a href="#none"><img width="90%" src="./assets/FCC_Responsive Web.png" /></a></p>
+  <p align="center"><a href="#none"><img width="90%" src="./assets/HackerRank_CSS.png" /></a></p>
+  <p align="center"><a href="#none"><img width="90%" src="./assets/HackerRank_js_basics.png" /></a></p>
+  <p align="center"><a href="#none"><img width="90%" src="./assets/hackerRank_JS_intermediate.png" /></a></p>
+  <p align="center"><a href="#none"><img width="90%" src="./assets/Infosys JS Developer Badge.png" /></a></p>
+  <p align="center"><a href="#none"><img width="90%" src="./assets/fcc_JSandALgorithm.png" /></a></p>
 </details>
 
 
 <details>
  <summary>Cloud</summary>
+
+   <p align="center"><a href="#none"><img width="90%" src="./assets/ORacleCPQSolution Engineer Specialist.png" /></a></p>
+  <p align="center"><a href="#none"><img width="90%" src="./assets/ORacleCpqSales Specialist.png" /></a></p>
+  <p align="center"><a href="#none"><img width="40%" src="./assets/Specialist_Oracle-CPQ-Cloud_Badge.png" /></a></p>
 </details>
+
+
+<details>
+ <summary>Coursera</summary>
+ <p align="center"><a href="#none"><img width="90%" src="./assets/CourseEra.png" /></a></p>
+</details>
+ 
+ 
+ 
 
 
 
