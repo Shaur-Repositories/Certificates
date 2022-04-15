@@ -1,5 +1,4 @@
-# Certifications
-
+# Certifications and Others :
 
 ## Summray :
 
@@ -69,8 +68,6 @@
   <p align="center"><a href="#none"><img width="90%" src="./assets/Infosys JS Developer Badge.png" /></a></p>
 </details>
 
-
-
 <details>
  <summary>Cloud</summary>
   <br><br>
@@ -80,13 +77,6 @@
 https://www.credly.com/badges/2263f887-2111-4527-b4b1-95a56564a0ea 
  </a></p>
 </details>
-
-
-
-
-
-
-
 
 <details>
  <summary>Coursera</summary>
