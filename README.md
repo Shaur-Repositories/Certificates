@@ -41,27 +41,27 @@
  <p align="center"<strong>Link : </strong> <a href="https://www.freecodecamp.org/certification/Shaur_Jain/responsive-web-design">
  https://www.freecodecamp.org/certification/Shaur_Jain/responsive-web-design
  </a></p>
- 
+ <br>
  <p align="center"><a href="#none"><img width="90%" src="./assets/HackerRank_CSS.png" /></a></p>
  <p align="center"<strong>Link : </strong> <a href="https://www.hackerrank.com/certificates/ffbe445d74a4">
  https://www.hackerrank.com/certificates/ffbe445d74a4
  </a></p>
- 
+  <br>
  <p align="center"><a href="#none"><img width="90%" src="./assets/HackerRank_js_basics.png" /></a></p>
- <p align="center"<strong>Link : </strong> <a href="https://www.hackerrank.com/certificates/21a7f89be15a">
- https://www.hackerrank.com/certificates/21a7f89be15a
- </a></p>
- 
- <p align="center"><a href="#none"><img width="90%" src="./assets/hackerRank_JS_intermediate.png" /></a></p>
  <p align="center"<strong>Link : </strong> <a href="https://www.hackerrank.com/certificates/5c97ac1442f1">
  https://www.hackerrank.com/certificates/5c97ac1442f1
  </a></p>
- 
+  <br>
+ <p align="center"><a href="#none"><img width="90%" src="./assets/hackerRank_JS_intermediate.png" /></a></p>
+  <p align="center"<strong>Link : </strong> <a href="https://www.hackerrank.com/certificates/21a7f89be15a">
+ https://www.hackerrank.com/certificates/21a7f89be15a
+ </a></p>
+  <br>
  <p align="center"><a href="#none"><img width="90%" src="./assets/fcc_JSandALgorithm.png" /></a></p>
  <p align="center"<strong>Link : </strong> <a href="https://www.freecodecamp.org/certification/Shaur_Jain/javascript-algorithms-and-data-structures">
  https://www.freecodecamp.org/certification/Shaur_Jain/javascript-algorithms-and-data-structures
  </a></p>
- 
+  <br>
   <p align="center"><a href="#none"><img width="90%" src="./assets/Infosys JS Developer Badge.png" /></a></p>
 </details>
 <hr>
